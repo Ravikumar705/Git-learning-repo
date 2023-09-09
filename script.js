@@ -25,3 +25,8 @@ toggle.addEventListener('click', () => {
     
 }) 
 
+<<<<<<< HEAD
+=======
+console.log("test");
+console.log("test");
+>>>>>>> dev
